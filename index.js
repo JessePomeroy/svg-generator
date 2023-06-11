@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const { Shape, Triangle, Circle, Square } = require('./lib/shapes.js'); // using the shapes.js file to generate the svg file
+const { Shape, Triangle, Circle, Square } = require('./lib/shapes'); // using the shapes.js file to generate the svg file
 
 const questions = [
     {
