@@ -13,6 +13,8 @@ https://github.com/JessePomeroy/svg-generator
 * [Contact](#contact)
 ## Features
 as a freelance web developer i want to generate a simple logo for my projects so that i don't have to pay a graphic designer. run the application in the command line and you will be prompted with a few questions from inquirer. upon answering the given questions an svg file will be generated for you to use for any project you may want to use it for.
+## Results
+![`final product`](./results/logo.svg)
 ## Dependencies
 * node.js, inquirer
 ## Usage
