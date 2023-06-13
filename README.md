@@ -6,8 +6,7 @@ This is a small application built upon node.js and inquirer to generate a small 
 ## Project Deployment
 https://github.com/JessePomeroy/svg-generator
 
-https://youtu.be/GAL04WC_S8Y
-
+[![`scrot`](https://github.com/JessePomeroy/svg-generator/blob/main/scrot.PNG)](https://youtu.be/GAL04WC_S8Y)
 
 ## Table of Contents
 * [Features](#features)
@@ -19,7 +18,7 @@ https://youtu.be/GAL04WC_S8Y
 as a freelance web developer i want to generate a simple logo for my projects so that i don't have to pay a graphic designer. run the application in the command line and you will be prompted with a few questions from inquirer. upon answering the given questions an svg file will be generated for you to use for any project you may want to use it for.
 ## Results
 ![`final product`](./results/logo.svg)
-![`scrot`](./scrot.png)
+
 ## Dependencies
 * node.js, inquirer
 ## Usage
